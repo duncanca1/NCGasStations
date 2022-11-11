@@ -1,0 +1,3 @@
+# NCGasStations
+
+This web map displays Gas stations in North Carolina by county through point marker symbolization. This symbol is sourced from Font Awesome, which allows you to add icons by CSS classes. The symbol point is a gas pump and the color corresponds to the number of gas pumps at each gas station. This map also includes choropleth class symbolization, which corresponds to county population. The library chroma.js was used to add color to the icons. The Gas Station dataset was created by NC Department of Agriculture and Consumer Services and the population data was sourced from the American Community Survey, US Census Bureau.  
